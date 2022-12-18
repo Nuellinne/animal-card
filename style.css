@@ -1,0 +1,91 @@
+header{
+    color: rgb(9, 9, 9);
+    padding-left: 38px;
+    margin: none;
+    font-family: sans-serif;
+    padding-top: 4px;
+    
+    }
+    
+    .fig{
+    width: 345px;
+    border-radius: 18px;
+    border: solid;
+    border-color: rgb(3, 192, 3);
+    
+    }
+    
+    main{
+    background-color:rgb(104, 254, 104);
+    margin-left: 400px;
+    width: 425px;
+    height: 680px;
+    border-radius: 20px;
+    border:solid;
+    border-color: #05ae05;;
+    
+    }
+    .newsection{
+    background-color: #90fb90;
+    margin-left: 40px;
+    margin-right: 37px;
+    border-radius: 15px;
+    padding-left: 8px;                              
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: sans-serif;
+    padding-right: 6px;
+    border: solid;
+    border-color: rgb(3, 192, 3);
+    
+    }
+    
+    .article1{
+    font-style: italic;
+    font-family: sans-serif;
+    
+    
+    
+    
+    }
+    
+    .paragraph{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: none;
+        font-family: sans-serif;
+    
+    }
+    .p1{
+     margin-bottom: 5px;
+     margin-top: 15px;   
+    }
+    .p2{
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .p3{
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .p4{
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
